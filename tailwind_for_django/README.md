@@ -1,6 +1,6 @@
 # Tailwind for Django
 
-A Django library for configuring Tailwind CSS in your project.
+A Django library for configuring Tailwind CSS in your project.aa
 
 ## Installazione
 
