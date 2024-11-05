@@ -9,7 +9,7 @@ setup(
     description='A library for easy setup of tailwind in django project',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/tuo_username/tailwind_for_django',
+    url='https://github.com/AndreaGallini/tailwind_for_django',
     author='Andrea Gallini',
     author_email='tuo_email@example.com',
     classifiers=[
